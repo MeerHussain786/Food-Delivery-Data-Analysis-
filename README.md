@@ -95,4 +95,4 @@ This project demonstrates end-to-end data handling, closely reflecting real-worl
 ---
 
 ## 👤 Author
-Tandasa Mourya
+Meer Hussain Sha Darvesh
